@@ -1,4 +1,3 @@
-[readme (1).md](https://github.com/user-attachments/files/26223103/readme.1.md)
 # Lab 9 — Network Programming with Sockets
 
 > A TCP client-server application in C demonstrating socket-based interprocess communication using the CSAPP library.
